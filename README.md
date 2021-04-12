@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 ```json
 no0g:{
   "Education":{
-    "Degree":"Bsc, Cyber Security",
-    "University":"Asia Pacific University Kuala Lumpur"
+    "Degree": "Bsc, Cyber Security",
+    "University": "Asia Pacific University Kuala Lumpur"
   },
   "Skills":{
     "Programming": ["Python","PHP","Java","C"]
-    "Scripting":["Bash","Powershell"]
-    "Tools":["Git","PhpMyAdmin","Virtual Machines","Virtual Private Network"]
-    "Offensive Security":["Network PenTest","Web PenTest"]
-    "Digital Forensics":["Malware Analysis","Data Recovery"]
+    "Scripting": ["Bash","Powershell"]
+    "Tools": ["Git","PhpMyAdmin","Virtual Machines","Virtual Private Network"]
+    "Offensive Security": ["Network PenTest","Web PenTest"]
+    "Digital Forensics": ["Malware Analysis","Data Recovery"]
 
   }
 }
