@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://www.hackthebox.eu/badge/image/162586)
+
+### $whoami
+```json
+"":"",
+
+```
+
