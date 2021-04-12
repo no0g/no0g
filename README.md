@@ -37,5 +37,5 @@ no0g:{
 }
 ```
 ### Statistics
-![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true)
+![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true&theme=dracula)
 
