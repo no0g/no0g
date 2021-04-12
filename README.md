@@ -1,4 +1,5 @@
 # Hi! It's Reza here!
+[![Linkedin: ejak](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmp2rsp/)](https://www.linkedin.com/in/jmp2rsp/)
 
 <!--
 **no0g/no0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,5 +40,4 @@ no0g:{
 ## Statistics
 ![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true&theme=dracula)
 
-## Socials
-[![Linkedin: ejak](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmp2rsp/)](https://www.linkedin.com/in/jmp2rsp/)
+
