@@ -27,11 +27,11 @@ no0g:{
     "University": "Asia Pacific University Kuala Lumpur"
   },
   "Skills":{
-    "Programming": ["Python","PHP","Java","C"]
-    "Scripting": ["Bash","Powershell"]
-    "Tools": ["Git","PhpMyAdmin","Virtual Machines","Virtual Private Network"]
-    "Offensive Security": ["Network PenTest","Web PenTest"]
-    "Digital Forensics": ["Malware Analysis","Data Recovery"]
+    "Programming": ["Python","PHP","Java","C"],
+    "Scripting": ["Bash","Powershell"],
+    "Tools": ["Git","PhpMyAdmin","Virtual Machines","Virtual Private Network"],
+    "Offensive Security": ["Network PenTest","Web PenTest"],
+    "Digital Forensics": ["Malware Analysis","Data Recovery"],
 
   }
 }
