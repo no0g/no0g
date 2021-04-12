@@ -21,7 +21,14 @@ Here are some ideas to get you started:
 
 ### $whoami
 ```json
-"":"",
+"Education":{
+  "Degree":"Bsc, Cyber Security",
+  "University":"Asia Pacific University Kuala Lumpur"
+},
+"Skills":{
+  "Programming":
+
+}
 
 ```
 
