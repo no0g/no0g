@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](http://www.hackthebox.eu/badge/image/162586)
+![](https://tryhackme-badges.s3.amazonaws.com/no0g.png)
 
 ### $whoami
 ```json
