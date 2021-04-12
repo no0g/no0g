@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://www.hackthebox.eu/badge/image/162586)
 ![](https://tryhackme-badges.s3.amazonaws.com/no0g.png)
+![](http://www.hackthebox.eu/badge/image/162586)
+
 
 ### $whoami
 ```json
