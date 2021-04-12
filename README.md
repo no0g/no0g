@@ -39,3 +39,4 @@ no0g:{
 ## Statistics
 ![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no0g&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
