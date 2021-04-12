@@ -1,4 +1,4 @@
-## Hi! It's Reza here!
+# Hi! It's Reza here!
 
 <!--
 **no0g/no0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](http://www.hackthebox.eu/badge/image/162586)
 
 
-### $ Whoami
+## $ Whoami
 ```json
 no0g:{
   "Education":{
@@ -36,6 +36,6 @@ no0g:{
   }
 }
 ```
-### Statistics
+## Statistics
 ![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true&theme=dracula)
 
