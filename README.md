@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://tryhackme-badges.s3.amazonaws.com/no0g.png)
+![](./no0g.png)
 ![](http://www.hackthebox.eu/badge/image/162586)
 
 
