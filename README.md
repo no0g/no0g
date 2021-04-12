@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 ## $ Whoami
 ```json
-no0g:{
+"Reza Nugroho":{
   "Education":{
     "Degree": "Bsc, Cyber Security",
     "University": "Asia Pacific University Kuala Lumpur"
   },
   "Skills":{
-    "Programming": ["Python","PHP","Java","C"],
+    "Programming": ["Python","PHP","Java","C","Intel x86 Assembly"],
     "Scripting": ["Bash","Powershell"],
     "Tools": ["Git","PhpMyAdmin","Virtual Machines","Virtual Private Network"],
     "Offensive Security": ["Network PenTest","Web PenTest"],
