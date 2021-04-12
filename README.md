@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](http://www.hackthebox.eu/badge/image/162586)
 
 
-### Whoami
+### $ Whoami
 ```json
 no0g:{
   "Education":{
@@ -36,4 +36,6 @@ no0g:{
   }
 }
 ```
+### Statistics
+![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true)
 
