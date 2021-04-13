@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 ## Statistics
 ![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true&theme=dracula)
 
+## Here for the workshop?
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no0g&repo=webdev-rubick-workshop)](https://github.com/no0g/webdev-rubick-workshop)
 
