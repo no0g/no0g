@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 
 ## Here for the workshop?
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no0g&repo=webdev-rubick-workshop)](https://github.com/no0g/webdev-rubick-workshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=no0g&repo=PHP-BasicCRUD)](https://github.com/no0g/PHP-BasicCRUD)
 
