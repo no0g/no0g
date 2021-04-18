@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     "Tools": ["Git","PhpMyAdmin","Virtual Machines","Virtual Private Network"],
     "Offensive Security": ["Network PenTest","Web PenTest"],
     "Digital Forensics": ["Malware Analysis","Data Recovery"],
+    "Exploring": ["Web Development with ExpressJS, NodeJS and NoSQL Database"]
 
   }
 }
