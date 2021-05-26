@@ -1,7 +1,7 @@
 # Hi! It's Reza here!
 [![Linkedin: ejak](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmp2rsp/)](https://www.linkedin.com/in/jmp2rsp/)
 [![](https://img.shields.io/badge/web-no0g.github.io-blue)](https://no0g.github.io)
-![](https://img.shields.io/badge/Status-Looking%20for%20Cyber%20Security%20Role-green)
+![](https://img.shields.io/badge/Status-Looking%20for%20A%20Role%20in%20Cyber%20Security-green)
 <!--
 **no0g/no0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
