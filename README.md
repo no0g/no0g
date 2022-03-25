@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 ## Statistics
 ![no0g's GitHub stats](https://github-readme-stats.vercel.app/api?username=no0g&count_private=true&theme=dracula)
 
-## Web Dev Projects
-[![Aptel](https://github-readme-stats.vercel.app/api/pin/?username=no0g&repo=APtel)](https://github.com/no0g/APtel)   
-[![MarkdownBlog-ExpressJS](https://github-readme-stats.vercel.app/api/pin/?username=no0g&repo=MarkdownBlog-ExpressJS)](https://github.com/no0g/MarkdownBlog-ExpressJS)
+
 
 
 
